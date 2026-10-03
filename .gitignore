@@ -1,0 +1,12 @@
+# Build artifacts
+city_navigator
+*.o
+*.out
+*.exe
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
